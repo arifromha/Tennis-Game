@@ -126,11 +126,11 @@ class Ball {
   let tennisManRedOne, tennisManRedTwo, tennisManBlueOne, tennisManBlueTwo;
   let courtHeight, courtWidth, maxBallArc, oneFourthPoint, threeFourthsPoint;
   
-  function preload() {
-    tennisManRedOne = loadImage('https://res.cloudinary.com/dkw0kkkgd/image/upload/v1550623424/tennisManRedOne_zaszr5.png');
-    tennisManRedTwo = loadImage('https://res.cloudinary.com/dkw0kkkgd/image/upload/v1550623420/tennisManRedTwo_mz3skr.png');
-    tennisManBlueOne = loadImage('https://res.cloudinary.com/dkw0kkkgd/image/upload/v1550623406/tennisManBlueOne_jo7ppq.png');
-    tennisManBlueTwo = loadImage('https://res.cloudinary.com/dkw0kkkgd/image/upload/v1550623416/tennisManBlueTwo_ac6ppw.png');
+ function preload() {
+    tennisManRedOne = loadImage('https://cdn0.iconfinder.com/data/icons/male-national-character/128/ethiopia-ethiopian-african-man-folk-1024.png');
+    tennisManRedTwo = loadImage('https://cdn0.iconfinder.com/data/icons/male-national-character/128/ethiopia-ethiopian-african-man-folk-1024.png');
+    tennisManBlueOne = loadImage('https://cdn2.iconfinder.com/data/icons/nationality-2-men/504/ethiopian-man-ethnic-indigenous-african-512.png');
+    tennisManBlueTwo = loadImage('https://cdn2.iconfinder.com/data/icons/nationality-2-men/504/ethiopian-man-ethnic-indigenous-african-512.png');
   }
   
   function setup() {
